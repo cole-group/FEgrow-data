@@ -1,0 +1,487 @@
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_20667_2qbp.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -6.27444 (kcal/mol)
+CNNscore: 0.43255 
+CNNaffinity: 6.30417
+CNNvariance: 0.17165
+Intramolecular energy: -0.03676
+Term values, before weighting:
+## best_conformers_20667_2qbp.pdb 111.00535 1766.98584 9.69509 34.61746 6.49220 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23330_2qbq.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -7.67151 (kcal/mol)
+CNNscore: 0.81944 
+CNNaffinity: 6.41325
+CNNvariance: 0.02978
+Intramolecular energy: 0.26127
+Term values, before weighting:
+## best_conformers_23330_2qbq.pdb 90.77158 1394.17114 4.69890 31.20655 5.52693 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23469.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -7.63489 (kcal/mol)
+CNNscore: 0.79521 
+CNNaffinity: 5.92509
+CNNvariance: 0.02205
+Intramolecular energy: 1.07141
+Term values, before weighting:
+## best_conformers_23469.pdb 95.80220 1433.22217 5.48913 31.39986 5.91001 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23472.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -5.46066 (kcal/mol)
+CNNscore: 0.26211 
+CNNaffinity: 5.76917
+CNNvariance: 0.16396
+Intramolecular energy: 0.82757
+Term values, before weighting:
+## best_conformers_23472.pdb 99.74059 1430.17798 8.76259 33.86429 5.55628 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23475.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -7.41912 (kcal/mol)
+CNNscore: 0.89269 
+CNNaffinity: 5.91477
+CNNvariance: 0.06778
+Intramolecular energy: 0.86830
+Term values, before weighting:
+## best_conformers_23475.pdb 88.31534 1246.05310 4.01873 30.74230 5.42518 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23479.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -7.41980 (kcal/mol)
+CNNscore: 0.84054 
+CNNaffinity: 6.29074
+CNNvariance: 0.01504
+Intramolecular energy: 0.45419
+Term values, before weighting:
+## best_conformers_23479.pdb 97.07720 1500.69922 5.98890 29.70728 5.53958 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23483.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_20669_2qbr.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -6.55099 (kcal/mol)
+CNNscore: 0.70192 
+CNNaffinity: 5.83813
+CNNvariance: 0.05209
+Intramolecular energy: 1.05355
+Term values, before weighting:
+## best_conformers_20669_2qbr.pdb 96.19849 1364.83789 6.93534 36.38552 6.30862 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23466.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -7.34703 (kcal/mol)
+CNNscore: 0.89913 
+CNNaffinity: 5.45805
+CNNvariance: 0.15446
+Intramolecular energy: 0.74376
+Term values, before weighting:
+## best_conformers_23466.pdb 80.95921 1126.48401 4.11358 27.54132 5.61170 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23470.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -7.72270 (kcal/mol)
+CNNscore: 0.87451 
+CNNaffinity: 5.90857
+CNNvariance: 0.03838
+Intramolecular energy: 1.46208
+Term values, before weighting:
+## best_conformers_23470.pdb 86.28377 1346.62012 4.13086 28.75656 5.67276 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23473.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -5.74657 (kcal/mol)
+CNNscore: 0.51247 
+CNNaffinity: 5.72312
+CNNvariance: 0.07852
+Intramolecular energy: 0.39268
+Term values, before weighting:
+## best_conformers_23473.pdb 95.62257 1348.75854 7.79642 37.41616 5.64166 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23476.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -7.92991 (kcal/mol)
+CNNscore: 0.92715 
+CNNaffinity: 6.27033
+CNNvariance: 0.06103
+Intramolecular energy: 0.26499
+Term values, before weighting:
+## best_conformers_23476.pdb 86.14523 1370.84802 3.84649 30.66457 5.44489 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23480.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -7.91403 (kcal/mol)
+CNNscore: 0.92706 
+CNNaffinity: 6.44628
+CNNvariance: 0.01393
+Intramolecular energy: 0.15856
+Term values, before weighting:
+## best_conformers_23480.pdb 90.86713 1551.88647 4.01523 31.59952 5.29255 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_20670_2qbs.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -7.87934 (kcal/mol)
+CNNscore: 0.93900 
+CNNaffinity: 6.23467
+CNNvariance: 0.05522
+Intramolecular energy: 0.46766
+Term values, before weighting:
+## best_conformers_20670_2qbs.pdb 88.58201 1346.95386 3.89638 31.00739 5.43663 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23468.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -5.63029 (kcal/mol)
+CNNscore: 0.67428 
+CNNaffinity: 5.62577
+CNNvariance: 0.03057
+Intramolecular energy: 0.52166
+Term values, before weighting:
+## best_conformers_23468.pdb 93.89564 1253.17859 7.73133 27.02485 6.26363 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23471.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -7.37512 (kcal/mol)
+CNNscore: 0.84811 
+CNNaffinity: 5.63778
+CNNvariance: 0.07351
+Intramolecular energy: 1.22562
+Term values, before weighting:
+## best_conformers_23471.pdb 83.88495 1272.53223 4.05830 27.41850 5.61058 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23474.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -7.61728 (kcal/mol)
+CNNscore: 0.92658 
+CNNaffinity: 6.26074
+CNNvariance: 0.07928
+Intramolecular energy: 0.41812
+Term values, before weighting:
+## best_conformers_23474.pdb 88.29336 1378.97693 4.07564 32.96887 5.44174 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23477.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -7.77185 (kcal/mol)
+CNNscore: 0.92797 
+CNNaffinity: 6.07652
+CNNvariance: 0.06109
+Intramolecular energy: 0.52170
+Term values, before weighting:
+## best_conformers_23477.pdb 86.89481 1341.52075 3.84563 28.46252 5.40797 0.00000
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+WARNING: No GPU detected. CNN scoring will be slow.
+Recommend running with single model (--cnn crossdock_default2018)
+or without cnn scoring (--cnn_scoring=none).
+
+Commandline: ./gnina --score_only -l best_conformers_23482.sdf -r rec_h.pdb --seed 0
+## Name gauss(o=0,_w=0.5,_c=8) gauss(o=3,_w=2,_c=8) repulsion(o=0,_c=8) hydrophobic(g=0.5,_b=1.5,_c=8) non_dir_h_bond(g=-0.7,_b=0,_c=8) num_tors_div
+Affinity: -8.01918 (kcal/mol)
+CNNscore: 0.89711 
+CNNaffinity: 6.40338
+CNNvariance: 0.02108
+Intramolecular energy: 1.00477
+Term values, before weighting:
+## best_conformers_23482.pdb 91.56477 1494.19995 4.06760 28.33597 5.50147 0.00000

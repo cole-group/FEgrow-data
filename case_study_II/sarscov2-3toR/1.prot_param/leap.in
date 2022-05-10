@@ -1,0 +1,11 @@
+# solvation script to solvate the merged topologies .mol2
+source oldff/leaprc.ff99SB
+#source leaprc.protein.ff19SB
+#source leaprc.protein.ff99SB
+#source leaprc.water.tip3p
+#source leaprc.gaff
+
+protein = LoadPdb 7l10-wloop_noXeyHoh_conect_HIP.pdb
+
+saveamberparm protein prot.prm7 prot.rst7
+quit
